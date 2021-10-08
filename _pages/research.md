@@ -2,8 +2,6 @@
 title: "Research"
 permalink: /research
 ---
-<script src="/assets/js/particles.js"></script>
-<script src="/assets/js/header.js"></script>
 
 <!-- TODO: laboratory introduction -->
 

@@ -1,0 +1,11 @@
+main:
+  - title: "Research"
+    url: /research
+  - title: "Members"
+    url: /members
+  - title: "Publications"
+    url: /publications
+  - title: "Courses"
+    url: /courses
+  - title: "Contact"
+    url: /contact

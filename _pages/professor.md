@@ -2,8 +2,6 @@
 title: Eunjin Oh
 permalink: /professor
 ---
-<script src="/assets/js/particles.js"></script>
-<script src="/assets/js/header.js"></script>
 
 ## Professor
 

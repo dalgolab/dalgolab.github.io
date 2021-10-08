@@ -2,8 +2,6 @@
 title: Publications
 permalink: /publications
 ---
-<script src="/assets/js/particles.js"></script>
-<script src="/assets/js/header.js"></script>
 
 ### Selected Publications
 A complete list can be found

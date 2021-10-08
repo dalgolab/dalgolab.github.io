@@ -3,8 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Discrete Algorithms Laboratory
 ---
-<script src="/assets/js/particles.js"></script>
-<script src="/assets/js/header.js"></script>
 
 <!-- TODO: Substitute the main page to either About or Landing page -->
 

@@ -2,8 +2,6 @@
 title: Courses
 permalink: /courses
 ---
-<script src="/assets/js/particles.js"></script>
-<script src="/assets/js/header.js"></script>
 
 ### 2021
 
