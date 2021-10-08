@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dalgolab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  dalgolab
+github_username: dalgolab
 
 # Build settings
 theme: minimal-mistakes-jekyll
@@ -60,11 +60,11 @@ plugins:
 include:
   - _pages/
 
-relative_permalinks: false
-
 head_scripts:
   - /assets/js/particles.js
   - /assets/js/header.js
+
+permalink: pretty
 
 defaults:
   # _posts
