@@ -1,6 +1,6 @@
 ---
 title: Courses
-permalink: /courses
+permalink: /courses/
 ---
 
 ### 2021

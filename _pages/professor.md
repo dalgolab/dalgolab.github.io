@@ -1,6 +1,6 @@
 ---
 title: Eunjin Oh
-permalink: /professor
+permalink: /professor/
 ---
 
 ## Professor
