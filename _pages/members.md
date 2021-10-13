@@ -10,7 +10,6 @@ permalink: /members/
 * **Email**: [eunjin.oh@postech.ac.kr](mailto:eunjin.oh@postech.ac.kr)
 * **Office**: Room 229, Building 2
 
-
 ## Graduate Students
 
 #### Yihan Kim
