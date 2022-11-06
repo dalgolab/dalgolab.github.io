@@ -8,7 +8,6 @@ title: Discrete Algorithms Laboratory
 
 ### News
 
-* [The official website for this lab](https://dalgolab.github.io) has been opened.
 * Two papers has been accepted in [the 32nd International Symposium on Algorithms and Computations(ISAAC 2021)](https://tcs.inf.kyushu-u.ac.jp/isaac2021/). 
   For more information, see our [publication list](/publications).
 * A paper has been accepted in the [17th Algorithms and Data Structures Symposium(WADS 2021)](https://projects.cs.dal.ca/wads2021/).
