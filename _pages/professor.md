@@ -7,6 +7,8 @@ permalink: /professor/
 
 #### Eunjin Oh
 
+<img src="/images/eunjin_oh.jpg" width="200" height="300">
+
 I am an assistant professor at the
 [Department of Computer Science and Engineering, POSTECH](
    https://cse.postech.ac.kr/
